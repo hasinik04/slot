@@ -146,6 +146,9 @@ Execute the program using runserver command.
 ![Screenshot 2025-03-12 123547](https://github.com/user-attachments/assets/f0ae14ae-7a3c-46ee-94ca-f97a6a6d203f)
 
 NAME:KATHI HASINI
+
 REGISTER NO:24000087
+
+
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
